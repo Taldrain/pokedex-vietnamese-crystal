@@ -1,8 +1,5 @@
 [
   {
-    "template: ": "[ELF|pok] ELFdex entry: BORT"
-  },
-  {
     "name": "Bulbasaur",
     "number": 1,
     "elf": "SEED",
